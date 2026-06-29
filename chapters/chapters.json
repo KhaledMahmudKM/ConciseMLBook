@@ -1,0 +1,39 @@
+[
+  { "separator": "— Part I —" },
+  "introduction.md",
+  "types-of-ml.md",  
+  "key-concepts.md",
+  "supervised-learning.md",
+  "unsupervised-learning.md",
+  "reinforcement-learning.md",
+  "linear-regression.md",
+  "classification.md",
+
+  "data-preparation.md",
+  "feature-engineering.md",
+  "model-evaluation.md",
+  "overfitting-underfitting.md",
+
+  "deep-learning.md",
+  "neural-networks.md",
+  "tools-libraries.md",
+  "case-studies.md",
+  "ethics.md",
+  "next-steps.md",
+  "glossary.md"
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
